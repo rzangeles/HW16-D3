@@ -1,0 +1,53 @@
+﻿Locationabbr,Locationdesc,Response,Obesity,Native_Population,Smoking,Millenials,Exercise,Median_Income
+AL,Alabama,Obese (BMI 30.0 - 99.8),33.5,96.76,21.1,19.8,72.4,42830
+AK,Alaska,Obese (BMI 30.0 - 99.8),0,0,19.9,24.1,80.8,71583
+AZ,Arizona,Obese (BMI 30.0 - 99.8),28.9,86.34,16.5,20.6,78.8,50068
+AR,Arkansas,Obese (BMI 30.0 - 99.8),35.9,95.28,24.7,19.7,69.4,41262
+CA,California,Obese (BMI 30.0 - 99.8),24.7,72.91,12.9,22.2,78.3,61933
+CO,Colorado,Obese (BMI 30.0 - 99.8),21.3,89.95,15.7,22.1,83.6,61303
+CT,Connecticut,Obese (BMI 30.0 - 99.8),26.3,86.32,15.4,19,79.4,70048
+DE,Delaware,Obese (BMI 30.0 - 99.8),30.7,91.42,19.9,19.8,75.1,59716
+DC,District of Columbia,Obese (BMI 30.0 - 99.8),21.7,86.04,16.4,31.7,79.2,71648
+FL,Florida,Obese (BMI 30.0 - 99.8),26.2,80.03,17.7,19.2,76.3,47463
+GA,Georgia,Obese (BMI 30.0 - 99.8),30.5,90.15,17.4,20.8,76.4,49321
+HI,Hawaii,Obese (BMI 30.0 - 99.8),22.1,82.37,14.1,22.1,80.4,69592
+ID,Idaho,Obese (BMI 30.0 - 99.8),28.9,94.04,15.9,19.7,81.3,47861
+IL,Illinois,Obese (BMI 30.0 - 99.8),29.3,86.15,16.5,20.8,76.1,57444
+IN,Indiana,Obese (BMI 30.0 - 99.8),32.7,95.16,22.9,20,73.9,49446
+IA,Iowa,Obese (BMI 30.0 - 99.8),30.9,95.07,18.5,19.8,77.4,53712
+KS,Kansas,Obese (BMI 30.0 - 99.8),31.3,92.96,18.1,20.7,76.2,52504
+KY,Kentucky,Obese (BMI 30.0 - 99.8),31.6,96.33,26.2,19.8,71.8,42958
+LA,Louisiana,Obese (BMI 30.0 - 99.8),34.9,95.82,24,21.7,70.5,44555
+ME,Maine,,0,0,19.3,17.4,80.3,49462
+MD,Maryland,Obese (BMI 30.0 - 99.8),29.6,85.1,14.6,20.6,78.6,73971
+MA,Massachusetts,Obese (BMI 30.0 - 99.8),23.3,84.28,14.7,21,79.9,69160
+MI,Michigan,Obese (BMI 30.0 - 99.8),30.7,93.58,21.2,19.5,74.5,49847
+MN,Minnesota,Obese (BMI 30.0 - 99.8),27.6,92.16,16.3,20.3,79.8,61481
+MS,Mississippi,Obese (BMI 30.0 - 99.8),35.5,97.82,23,19.8,68.4,39680
+MO,Missouri,Obese (BMI 30.0 - 99.8),30.2,96.29,20.6,20.2,75,48363
+MT,Montana,,0,0,19.9,19.9,80.4,46328
+NE,Nebraska,Obese (BMI 30.0 - 99.8),30.2,93.34,17.3,20.7,78.7,52686
+NV,Nevada,Obese (BMI 30.0 - 99.8),27.7,80.57,17,21,77.5,51450
+NH,New Hampshire,Obese (BMI 30.0 - 99.8),27.4,94.01,17.5,18.3,80.7,66532
+NJ,New Jersey,Obese (BMI 30.0 - 99.8),26.9,78.06,15.1,19.3,76.7,71919
+NM,New Mexico,Obese (BMI 30.0 - 99.8),28.4,90.14,19.2,20.4,76.7,44803
+NY,New York,Obese (BMI 30.0 - 99.8),27,77.39,14.4,21.7,74.1,58878
+NC,North Carolina,Obese (BMI 30.0 - 99.8),29.7,92.32,19.1,20,76.8,46556
+ND,North Dakota,,0,0,19.9,23.8,78.7,59029
+OH,Ohio,Obese (BMI 30.0 - 99.8),32.6,95.84,21,19.4,75.1,49308
+OK,Oklahoma,Obese (BMI 30.0 - 99.8),33,94.16,21.1,20.9,71.7,47529
+OR,Oregon,Obese (BMI 30.0 - 99.8),27.9,90.08,17,20.3,83.5,51075
+PA,Pennsylvania,Obese (BMI 30.0 - 99.8),30.2,93.57,19.9,19.6,76.7,53234
+RI,Rhode Island,Obese (BMI 30.0 - 99.8),27,86.62,16.3,20.8,77.5,54891
+SC,South Carolina,Obese (BMI 30.0 - 99.8),32.1,95.27,21.5,20,74.7,45238
+SD,South Dakota,,0,0,18.6,20.3,78.8,50979
+TN,Tennessee,Obese (BMI 30.0 - 99.8),31.2,95.09,24.2,20,73.2,44361
+TX,Texas,Obese (BMI 30.0 - 99.8),31.9,83.22,14.5,21.7,72.4,53035
+UT,Utah,Obese (BMI 30.0 - 99.8),25.7,91.51,9.7,23.3,83.2,60922
+VT,Vermont,,0,0,16.4,19.1,81,54166
+VA,Virginia,Obese (BMI 30.0 - 99.8),28.5,87.92,19.5,21.1,76.5,64902
+WA,Washington,Obese (BMI 30.0 - 99.8),27.3,86.62,15.3,21.4,81.9,61366
+WV,West Virginia,,0,0,26.7,18.5,71.3,41059
+WI,Wisconsin,Obese (BMI 30.0 - 99.8),31.2,95.13,17.4,19.7,78.8,52622
+WY,Wyoming, ,0,0,19.5,21.6,77.9,57055
+PR,Puerto Rico,Obese (BMI 30.0 - 99.8),28.3,97.37,11.3,19.7,59.4,18928
