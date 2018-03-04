@@ -1,4 +1,4 @@
-// Level 2 - transition plots
+// Level 2 with Tool Tip
 
 // Set-up the data plot dimensions
 
