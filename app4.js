@@ -1,8 +1,9 @@
-// Level 2 - transition plots
+// Level 3 - Mobile Moxie
 
 // Set-up the data plot dimensions
 
-var svgWidth = 960;
+var w = window.innerWidth;
+var svgWidth = w * 0.9;
 var svgHeight = 500;
 
 var margin = { top: 20, right: 40, bottom: 90, left: 100 };
@@ -62,10 +63,7 @@ d3.csv("data/data.csv", function(error, response) {
     yLinearScale.domain([10, d3.max(response, function(data) {
             return +data.Obesity;
         })]);
-
-    // Tool tip info to be provided later
     
-
     // Add the circles
 
     var circles = chart.selectAll("circle")
@@ -225,6 +223,34 @@ d3.csv("data/data.csv", function(error, response) {
         return d3.extent(response, function(data) {
             return +data[dataColumnX];
         });
+        
+    }
+
+    // Resize Function
+
+    d3.select(window).on("resize", resize);
+
+    function resize() {
+       var w = window.innerWidth;
+       var svgWidth = parseInt(d3.select('#chart').style('width'), 10);
+       var width = svgWidth - margin.left - margin.right;
+
+       // resize the chart
+       
+        console.log(width);
+
+       xLinearScale.range([0, width]);
+       d3.select(chart.node().parentNode)
+        .style('height', (y.rangeExtent()[1] + margin.top + margin.bottom) + 'px')
+        .style('width', (width + margin.left + margin.right) + 'px');
+
+    //    chart.selectAll("circle")
+    //     .attr("cx", function(data) {
+    //         return xLinearScale(+data[clickedAxis]);
+    //     })
+
+        chart.select(".xLinearScale.axis.bottom").call(bottomAxis.orient("bottom"));
+        
     }
 
     // x axis click function
@@ -338,3 +364,4 @@ d3.csv("data/data.csv", function(error, response) {
     })
     
 });
+
